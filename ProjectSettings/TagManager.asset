@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - redBall
+  - Chain
+  - Borders
+  - yellowBall
+  - blueBall
+  - GameManager
+  - Bomb
+  - BombDetonation
+  - Bullet
+  - Item
+  - Tube
+  - orangeBall
+  - orangeWall
+  - pinkBall
+  - blackBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Chain
+  - Player
+  - Item
+  - Bubble
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backround
+    uniqueID: 2696231839
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
